@@ -6,7 +6,7 @@ Nginx used to produce a production container
 
 Github used to deploy code into Travis CI and AWS
 
-Travis CI pipeline - set up to watch GitHub for changes and report back to us that everything worked successfully
+Travis CI pipeline - set up to watch GitHub for changes and reports back that everything worked successfully
 
 Using AWS Elastic Beanstalk to host the website
 
